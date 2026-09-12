@@ -7,4 +7,3 @@ Here are some ideas to get you started:
 
 -->
 
-I'm currently learning new things, exploring them to become a better coder.
